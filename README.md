@@ -44,18 +44,18 @@ I'm an **Undergraduate Software Engineer at SLIIT** with experience in full-stac
 ---
 
 ### 📊 GitHub Stats
-![Sandith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandith-Pivithuru&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandith-Pivithuru&layout=compact&theme=radical)
+![Sandith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandithP2001&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandithP2001&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sandith-Pivithuru&theme=darkhub&column=3&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SandithP2001&theme=darkhub&column=3&margin-w=15&margin-h=15)
 
 ---
 
 ### 📈 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sandith-Pivithuru&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SandithP2001&theme=radical)
 
 ---
 
