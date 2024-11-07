@@ -1,8 +1,9 @@
 # Hi 👋, I'm Sandith Pivithuru
 
-I'm an **Software Engineer (Undergraduate) at SLIIT** with experience in full-stack development, web technologies, and machine learning. Passionate about problem-solving, coding, and building impactful projects.
+I'm an **Software Engineer (Undergraduate at SLIIT)** with experience in full-stack development, web technologies, and machine learning. Passionate about problem-solving, coding, and building impactful projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SandithP2001&color=blue)
+
 
 ---
 
@@ -10,9 +11,8 @@ I'm an **Software Engineer (Undergraduate) at SLIIT** with experience in full-st
 - 🎓 Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**
 - 🌐 Building solutions in **web development, machine learning,** and **AI**
 - 💻 Skilled in **Java, JavaScript, Python,** and **MERN stack**
-- 🤖 Currently learning about **AI and ML**
+- 🤖 Currently learning new technologies
 - 🌱 Open to collaborations on challenging software projects
-
 ---
 
 
