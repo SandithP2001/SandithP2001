@@ -20,13 +20,13 @@ I'm an **Software Engineer (Undergraduate) at SLIIT** with experience in full-st
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandithpivithuru/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30"/>
   </a>
   <a href="https://github.com/SandithP2001" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white" alt="GitHub" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30"/>
   </a>
   <a href="mailto:sandithpivithuru@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Email&color=D14836&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30"/>
   </a>
 </p>
 
@@ -37,22 +37,20 @@ I'm an **Software Engineer (Undergraduate) at SLIIT** with experience in full-st
 ### 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=Java&color=ED8B00&logo=java&logoColor=white" alt="Java" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white" alt="Python" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=white" alt="HTML5" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=white" alt="CSS3" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&message=React&color=20232A&logo=react&logoColor=61DAFB" alt="React" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=white" alt="Node.js" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white" alt="Git" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=black" alt="Linux" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=white" alt="Docker" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Spring%20Boot&color=6DB33F&logo=spring&logoColor=white" alt="Spring Boot" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40"/>
 </p>
-
 
 
 
@@ -66,18 +64,21 @@ I'm an **Software Engineer (Undergraduate) at SLIIT** with experience in full-st
 </p>
 
 
+---
+
+### 📈 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandithP2001&theme=blueberry" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SandithP2001&theme=onedark&column=6&margin-w=15&margin-h=15)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SandithP2001&theme=algolia&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
 
-
----
-
-### 📈 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SandithP2001&theme=blueberry)
 
 ---
