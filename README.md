@@ -71,12 +71,13 @@ I'm an **Software Engineer (Undergraduate) at SLIIT** with experience in full-st
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SandithP2001&theme=darkhub&column=6&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SandithP2001&theme=onedark&column=6&margin-w=15&margin-h=15)
 
 
 ---
 
 ### 📈 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SandithP2001&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SandithP2001&theme=blueberry)
 
 ---
