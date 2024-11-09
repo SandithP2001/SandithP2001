@@ -22,11 +22,11 @@ I'm an **Software Engineer (Undergraduate at SLIIT)** with experience in full-st
   <a href="https://www.linkedin.com/in/sandithpivithuru/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30"/>
   </a>
-  <a href="https://github.com/SandithP2001" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30"/>
-  </a>
   <a href="mailto:sandithpivithuru@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30"/>
+  </a>
+  <a href="https://github.com/SandithP2001" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30"/>
   </a>
 </p>
 
@@ -66,13 +66,6 @@ I'm an **Software Engineer (Undergraduate at SLIIT)** with experience in full-st
 
 ---
 
-### 📈 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandithP2001&theme=blueberry" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 
