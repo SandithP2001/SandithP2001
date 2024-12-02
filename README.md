@@ -13,6 +13,8 @@ I'm an **Software Engineer (Undergraduate at SLIIT)** with experience in full-st
 - 💻 Skilled in **Java, JavaScript, Python,** and **MERN stack**
 - 🤖 Currently learning new technologies
 - 🌱 Open to collaborations on challenging software projects
+
+  
 ---
 
 
