@@ -71,8 +71,8 @@ I'm an **Software Engineer (Undergraduate at SLIIT)** with experience in full-st
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SandithP2001&theme=algolia&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=SandithP2001&theme=algolia&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" /> 
 </p>
 
 
