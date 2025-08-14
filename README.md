@@ -28,6 +28,11 @@ I'm a **Software Engineer (Undergraduate at SLIIT)** with experience in full-sta
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30"/>
   </a>
 </p>
+[<img align="left" alt="SandithP2001 | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />][https://www.linkedin.com/in/sandithpivithuru/]
+[<img align="left" alt="SandithP2001 | Instagram" src="https://skillicons.dev/icons?i=gmail" />][gmail]
+
+<br />
+<br />
 
 
 
