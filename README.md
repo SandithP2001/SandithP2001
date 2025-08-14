@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sandith Pivithuru
 
-I'm an **Software Engineer (Undergraduate at SLIIT)** with experience in full-stack development, web technologies, and machine learning. Passionate about problem-solving, coding, and building impactful projects.
+I'm a **Software Engineer (Undergraduate at SLIIT)** with experience in full-stack development, web technologies, and machine learning. Passionate about problem-solving, coding, and building impactful projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SandithP2001&color=blue)
 
@@ -22,13 +22,10 @@ I'm an **Software Engineer (Undergraduate at SLIIT)** with experience in full-st
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandithpivithuru/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30"/>
   </a>
   <a href="mailto:sandithpivithuru@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30"/>
-  </a>
-  <a href="https://github.com/SandithP2001" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30"/>
   </a>
 </p>
 
